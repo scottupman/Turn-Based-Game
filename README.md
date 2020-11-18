@@ -3,4 +3,6 @@ Download the repository to your desktop
 
 Code is located in Scripts folder
 
-User Interface used for determining player actions
+game executable -> ScriptableObjects.exe
+
+The user interface is structured to get player input and perform player actions.
