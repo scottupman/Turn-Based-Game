@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5da876dd6ebcf9e4e97fec2a7b6b1754, type: 3}
+  m_Name: Gun LV.1
+  m_EditorClassIdentifier: 
+  weapon: 
+  atkDamage: 
+  hitAmount: 
+  critChance: 
+  weaponDescription: Gun LV.1 is a 10 hit weapon, each hit having a critical strike
+    chance of 25%
